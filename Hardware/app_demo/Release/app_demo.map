@@ -1,0 +1,1089 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_board_dp\Release\liblib_board_dp.a(board.o)
+                              ./src/main.o (Board_Init)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+                              ./src/main.o (Chip_Clock_System_SetClockFreq)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+                              ./src/main.o (Chip_EEPROM_Init)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+                              C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_board_dp\Release\liblib_board_dp.a(board.o) (Chip_GPIO_Init)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+                              C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_board_dp\Release\liblib_board_dp.a(board.o) (Chip_IOCON_Init)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+                              ./mods/ndeft2t/ndeft2t.o (Chip_NFC_GetStatus)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+                              ./src/main.o (Chip_PMU_PowerMode_EnterDeepPowerDown)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+                              ./src/timer.o (Chip_RTC_Init)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+                              C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o) (Chip_SysCon_Peripheral_AssertReset)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+                              ./src/main.o (Chip_TIMER_Init)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+                              ./mods/tmeas/tmeas.o (Chip_TSen_Init)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(mcux_startup.o)
+                              (ResetISR)
+C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(bussync_8Nxx.o)
+                              C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o) (Chip_BusSync_WriteReg)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memcpy.o)
+                              ./src/main.o (memcpy)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memmove.o)
+                              ./mods/ndeft2t/ndeft2t.o (memmove)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(__weak__main.o)
+                              C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(mcux_startup.o) (__main)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcat.o)
+                              ./src/main.o (strcat)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcpy.o)
+                              ./src/main.o (strcpy)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strlen.o)
+                              ./src/main.o (strlen)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncmp.o)
+                              ./src/main.o (strncmp)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncpy.o)
+                              ./src/main.o (strncpy)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_32.o)
+                              C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o) (__aeabi_idiv)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                              ./mods/ndeft2t/ndeft2t.o (__gnu_thumb1_case_sqi)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 ./src/timer.o
+ .data          0x00000000        0x0 ./src/timer.o
+ .bss           0x00000000        0x0 ./src/timer.o
+ .text.Timer_StopMeasurementTimeout
+                0x00000000       0x30 ./src/timer.o
+ .text          0x00000000        0x0 ./mods/tmeas/tmeas.o
+ .data          0x00000000        0x0 ./mods/tmeas/tmeas.o
+ .bss           0x00000000        0x0 ./mods/tmeas/tmeas.o
+ .text          0x00000000        0x0 ./mods/ndeft2t/ndeft2t.o
+ .data          0x00000000        0x0 ./mods/ndeft2t/ndeft2t.o
+ .bss           0x00000000        0x0 ./mods/ndeft2t/ndeft2t.o
+ .text.NDEFT2T_CreateExtRecord
+                0x00000000       0x14 ./mods/ndeft2t/ndeft2t.o
+ .text.NDEFT2T_CreateUriRecord
+                0x00000000       0x14 ./mods/ndeft2t/ndeft2t.o
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_board_dp\Release\liblib_board_dp.a(board.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_board_dp\Release\liblib_board_dp.a(board.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_board_dp\Release\liblib_board_dp.a(board.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_SPI0_SetClockDiv
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_SPI0_GetClockDiv
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_SPI0_SetClockFreq
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_SPI0_GetClockFreq
+                0x00000000       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_Watchdog_SetClockDiv
+                0x00000000       0x2c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_Watchdog_GetClockDiv
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_Watchdog_SetClockFreq
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_Watchdog_GetClockFreq
+                0x00000000       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_Peripheral_SetClockEnabled
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_Peripheral_GetClockEnabled
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_Watchdog_SetClockSource
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_Watchdog_GetClockSource
+                0x00000000       0x10 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_Clkout_SetClockSource
+                0x00000000       0x10 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text.Chip_Clock_Clkout_GetClockSource
+                0x00000000       0x10 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+ .text.Chip_EEPROM_DeInit
+                0x00000000       0x1e C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+ .text.Chip_EEPROM_Memset
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+ .text.Chip_GPIO_DeInit
+                0x00000000        0xa C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+ .text.Chip_GPIO_SetPinDIR
+                0x00000000       0x24 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+ .text.Chip_GPIO_SetPortDIR
+                0x00000000       0x1e C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+ .text.Chip_GPIO_SetupPinInt
+                0x00000000       0x5c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+ .text.Chip_IOCON_DeInit
+                0x00000000        0xc C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+ .text.Chip_IOCON_GetPinConfig
+                0x00000000        0xa C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+ .text.Chip_IOCON_SetAnabusGrounded
+                0x00000000        0xa C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+ .text.Chip_IOCON_GetAnabusGrounded
+                0x00000000        0xa C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+ .text.Chip_IOCON_GroundAnabus
+                0x00000000        0xe C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .text.Chip_NFC_DeInit
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .text.Chip_NFC_GetTargetAddress
+                0x00000000        0x6 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .text.Chip_NFC_GetLastAccessInfo
+                0x00000000       0x1e C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .text.Chip_NFC_WordWrite
+                0x00000000       0x30 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .text.Chip_NFC_ByteRead
+                0x00000000       0x30 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_PowerMode_EnterSleep
+                0x00000000        0xc C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_PowerMode_EnterDeepSleep
+                0x00000000        0xc C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_Switch_GetVDDBat
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_Switch_GetVNFC
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_Switch_OpenVDDBat
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_GetBODEnabled
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_SetWakeupPinEnabled
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_GetWakeupPinEnabled
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_SetRTCClockSource
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_GetRTCClockSource
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_SetRetainedData
+                0x00000000       0x30 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_GetRetainedData
+                0x00000000       0x30 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_Int_SetEnabledMask
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_Int_GetEnabledMask
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_Int_GetRawStatus
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_Int_ClearRawStatus
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .text.Chip_RTC_DeInit
+                0x00000000       0x34 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .text.Chip_RTC_SetCalibration
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .text.Chip_RTC_GetCalibration
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .text.Chip_RTC_Wakeup_GetControl
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .text.Chip_RTC_Wakeup_GetRemaining
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .text.Chip_RTC_Wakeup_IsRunning
+                0x00000000       0x2c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .text.Chip_RTC_Time_GetValue
+                0x00000000       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .text.Chip_RTC_Time_SetValue
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .text.Chip_RTC_Int_GetEnabledMask
+                0x00000000       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_IVT_SetAddress
+                0x00000000       0x2c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_IVT_GetAddress
+                0x00000000       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_Peripheral_SetPowerDisabled
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_Peripheral_GetPowerDisabled
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_Reset_GetSource
+                0x00000000       0x10 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_Reset_ClearSource
+                0x00000000        0xc C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_StartLogic_GetEnabledMask
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_StartLogic_GetStatus
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_StartLogic_SetPIORisingEdge
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_StartLogic_GetPIORisingEdge
+                0x00000000       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text.Chip_SysCon_GetDeviceID
+                0x00000000       0x10 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+ .text.Chip_TIMER_DeInit
+                0x00000000        0xa C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+ .text.Chip_TIMER_GetMatchOutputMode
+                0x00000000        0xc C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_NativeToKelvin
+                0x00000000       0x1a C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_KelvinToNative
+                0x00000000       0x1a C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_NativeToCelsius
+                0x00000000       0x28 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_CelsiusToNative
+                0x00000000       0x2c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_FahrenheitToNative
+                0x00000000       0x34 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_Int_SetThresholdLow
+                0x00000000        0x6 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_Int_GetThresholdLow
+                0x00000000        0x6 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_Int_SetThresholdHigh
+                0x00000000        0x6 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_Int_GetThresholdHigh
+                0x00000000        0x6 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_Int_GetEnabledMask
+                0x00000000        0x8 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_Int_GetRawStatus
+                0x00000000        0x8 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text.Chip_TSen_Int_ClearRawStatus
+                0x00000000        0x8 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(mcux_startup.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(mcux_startup.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(mcux_startup.o)
+ .text          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(bussync_8Nxx.o)
+ .data          0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(bussync_8Nxx.o)
+ .bss           0x00000000        0x0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(bussync_8Nxx.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memmove.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memmove.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memmove.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcat.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcat.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcat.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strlen.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strlen.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strlen.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncmp.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncmp.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncmp.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset_lowlevel
+                0x00000000       0x2a c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x6 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0x8 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_uqi
+                0x00000000       0x10 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_shi
+                0x00000000       0x10 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_uhi
+                0x00000000       0x10 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+ .text.__gnu_thumb1_case_si
+                0x00000000       0x18 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+Flash30          0x00000000         0x00007800         xr
+SRAM8            0x10000000         0x00001ff0         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/crp.o
+LOAD ./src/main.o
+LOAD ./src/timer.o
+LOAD ./mods/tmeas/tmeas.o
+LOAD ./mods/ndeft2t/ndeft2t.o
+LOAD C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_board_dp\Release\liblib_board_dp.a
+LOAD C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a
+START GROUP
+LOAD c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a
+LOAD c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_Flash30 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00007800                __top_Flash30 = 0x7800
+                0x00007800                __top_Flash = 0x7800
+                0x10000000                __base_SRAM8 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10001ff0                __top_SRAM8 = 0x10001ff0
+                0x10001ff0                __top_RAM = 0x10001ff0
+
+.text           0x00000000     0x2950
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(mcux_startup.o)
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x2950 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x30 SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000030 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x11f0 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4       0x58 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(mcux_startup.o)
+                0x000000d4                Startup_VarInit
+                0x00000120                ResetISR
+                0x000002fc                . = 0x2fc
+ *fill*         0x0000012c      0x1d0 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.StartDisplayTimer
+                0x00000300       0x2c ./src/main.o
+ .text.setToneDelay
+                0x0000032c       0x28 ./src/main.o
+ .text.stopMusic
+                0x00000354       0x34 ./src/main.o
+ .text.playTone
+                0x00000388       0x50 ./src/main.o
+ .text.startMusic
+                0x000003d8      0x100 ./src/main.o
+ .text.eepromReadTag
+                0x000004d8       0x6c ./src/main.o
+ .text.eepromWriteTag
+                0x00000544       0x58 ./src/main.o
+ .text.takeMemSemaphore
+                0x0000059c       0x28 ./src/main.o
+ .text.convertStr2LEDPattern.constprop.2
+                0x000005c4       0x50 ./src/main.o
+ .text.startLEDDisplay
+                0x00000614      0x12c ./src/main.o
+ .text.NDEFT2T_FieldStatus_Cb
+                0x00000740       0x2c ./src/main.o
+                0x00000740                NDEFT2T_FieldStatus_Cb
+ .text.NDEFT2T_MsgAvailable_Cb
+                0x0000076c       0x20 ./src/main.o
+                0x0000076c                NDEFT2T_MsgAvailable_Cb
+ .text.App_TmeasCb
+                0x0000078c       0x28 ./src/main.o
+                0x0000078c                App_TmeasCb
+ .text.CT32B0_IRQHandler
+                0x000007b4      0x230 ./src/main.o
+                0x000007b4                CT32B0_IRQHandler
+ .text.startup.main
+                0x000009e4      0x8c8 ./src/main.o
+                0x000009e4                main
+ .text.RTC_IRQHandler
+                0x000012ac       0x30 ./src/timer.o
+                0x000012ac                RTC_IRQHandler
+ .text.Timer_Init
+                0x000012dc       0x30 ./src/timer.o
+                0x000012dc                Timer_Init
+ .text.Timer_StartMeasurementTimeout
+                0x0000130c       0x60 ./src/timer.o
+                0x0000130c                Timer_StartMeasurementTimeout
+ .text.Timer_CheckMeasurementTimeout
+                0x0000136c        0xc ./src/timer.o
+                0x0000136c                Timer_CheckMeasurementTimeout
+ .text.TSEN_IRQHandler
+                0x00001378       0x68 ./mods/tmeas/tmeas.o
+                0x00001378                TSEN_IRQHandler
+ .text.TMeas_Measure
+                0x000013e0       0xb4 ./mods/tmeas/tmeas.o
+                0x000013e0                TMeas_Measure
+ .text.DecodeNdefTlv
+                0x00001494       0x50 ./mods/ndeft2t/ndeft2t.o
+ .text.CreateRecord
+                0x000014e4       0xb6 ./mods/ndeft2t/ndeft2t.o
+ *fill*         0x0000159a        0x2 ff
+ .text.DisableTermTlvDetection
+                0x0000159c       0x28 ./mods/ndeft2t/ndeft2t.o
+ .text.NDEFT2T_Init
+                0x000015c4       0x48 ./mods/ndeft2t/ndeft2t.o
+                0x000015c4                NDEFT2T_Init
+ .text.NDEFT2T_DeInit
+                0x0000160c       0x1c ./mods/ndeft2t/ndeft2t.o
+                0x0000160c                NDEFT2T_DeInit
+ .text.NDEFT2T_CreateMessage
+                0x00001628       0x38 ./mods/ndeft2t/ndeft2t.o
+                0x00001628                NDEFT2T_CreateMessage
+ .text.NDEFT2T_CreateTextRecord
+                0x00001660       0x12 ./mods/ndeft2t/ndeft2t.o
+                0x00001660                NDEFT2T_CreateTextRecord
+ .text.NDEFT2T_CreateMimeRecord
+                0x00001672       0x14 ./mods/ndeft2t/ndeft2t.o
+                0x00001672                NDEFT2T_CreateMimeRecord
+ .text.NDEFT2T_WriteRecordPayload
+                0x00001686       0x3e ./mods/ndeft2t/ndeft2t.o
+                0x00001686                NDEFT2T_WriteRecordPayload
+ .text.NDEFT2T_CommitRecord
+                0x000016c4       0x22 ./mods/ndeft2t/ndeft2t.o
+                0x000016c4                NDEFT2T_CommitRecord
+ *fill*         0x000016e6        0x2 ff
+ .text.NDEFT2T_CommitMessage
+                0x000016e8      0x110 ./mods/ndeft2t/ndeft2t.o
+                0x000016e8                NDEFT2T_CommitMessage
+ .text.NDEFT2T_GetNextRecord
+                0x000017f8      0x100 ./mods/ndeft2t/ndeft2t.o
+                0x000017f8                NDEFT2T_GetNextRecord
+ .text.NDEFT2T_GetMessage
+                0x000018f8       0x60 ./mods/ndeft2t/ndeft2t.o
+                0x000018f8                NDEFT2T_GetMessage
+ .text.NDEFT2T_GetRecordPayload
+                0x00001958       0x14 ./mods/ndeft2t/ndeft2t.o
+                0x00001958                NDEFT2T_GetRecordPayload
+ .text.NFC_IRQHandler
+                0x0000196c       0xbc ./mods/ndeft2t/ndeft2t.o
+                0x0000196c                NFC_IRQHandler
+ .text.Board_Init
+                0x00001a28       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_board_dp\Release\liblib_board_dp.a(board.o)
+                0x00001a28                Board_Init
+ .text.Chip_Clock_System_SetClockDiv
+                0x00001a40       0x30 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+                0x00001a40                Chip_Clock_System_SetClockDiv
+ .text.Chip_Clock_System_GetClockDiv
+                0x00001a70       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+                0x00001a70                Chip_Clock_System_GetClockDiv
+ .text.Chip_Clock_System_SetClockFreq
+                0x00001a84       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+                0x00001a84                Chip_Clock_System_SetClockFreq
+ .text.Chip_Clock_System_GetClockFreq
+                0x00001a98       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+                0x00001a98                Chip_Clock_System_GetClockFreq
+ .text.Chip_Clock_System_BusyWait_us
+                0x00001aac        0xc C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+                0x00001aac                Chip_Clock_System_BusyWait_us
+ .text.Chip_Clock_Peripheral_EnableClock
+                0x00001ab8       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+                0x00001ab8                Chip_Clock_Peripheral_EnableClock
+ .text.Chip_Clock_Peripheral_DisableClock
+                0x00001ad0       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+                0x00001ad0                Chip_Clock_Peripheral_DisableClock
+ .text.WaitUntilReady
+                0x00001ae8       0x2c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+ .text.Chip_EEPROM_Init
+                0x00001b14       0x5c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+                0x00001b14                Chip_EEPROM_Init
+ .text.Chip_EEPROM_Flush
+                0x00001b70       0x38 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+                0x00001b70                Chip_EEPROM_Flush
+ .text.EEPROM_Write
+                0x00001ba8       0xdc C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+ .text.Chip_EEPROM_Read
+                0x00001c84       0x4c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+                0x00001c84                Chip_EEPROM_Read
+ .text.Chip_EEPROM_Write
+                0x00001cd0        0xc C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+                0x00001cd0                Chip_EEPROM_Write
+ .text.Chip_GPIO_Init
+                0x00001cdc        0xa C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+                0x00001cdc                Chip_GPIO_Init
+ .text.Chip_IOCON_Init
+                0x00001ce6        0xc C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+                0x00001ce6                Chip_IOCON_Init
+ .text.Chip_IOCON_UngroundAnabus
+                0x00001cf2        0xe C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+                0x00001cf2                Chip_IOCON_UngroundAnabus
+ .text.Chip_IOCON_SetPinConfig
+                0x00001d00       0x26 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+                0x00001d00                Chip_IOCON_SetPinConfig
+ .text.Chip_NFC_GetStatus
+                0x00001d26        0x6 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+                0x00001d26                Chip_NFC_GetStatus
+ .text.Chip_NFC_Int_SetEnabledMask
+                0x00001d2c        0x8 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+                0x00001d2c                Chip_NFC_Int_SetEnabledMask
+ .text.Chip_NFC_Int_GetEnabledMask
+                0x00001d34        0x8 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+                0x00001d34                Chip_NFC_Int_GetEnabledMask
+ .text.Chip_NFC_Int_GetRawStatus
+                0x00001d3c        0x8 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+                0x00001d3c                Chip_NFC_Int_GetRawStatus
+ .text.Chip_NFC_Int_ClearRawStatus
+                0x00001d44       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+                0x00001d44                Chip_NFC_Int_ClearRawStatus
+ .text.Chip_NFC_Init
+                0x00001d64       0x24 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+                0x00001d64                Chip_NFC_Init
+ .text.Chip_NFC_SetTargetAddress
+                0x00001d88        0x6 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+                0x00001d88                Chip_NFC_SetTargetAddress
+ *fill*         0x00001d8e        0x2 ff
+ .text.EnterStandbyMode
+                0x00001d90       0x54 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.ModifyRegister
+                0x00001de4       0x34 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .text.Chip_PMU_PowerMode_EnterDeepPowerDown
+                0x00001e18       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+                0x00001e18                Chip_PMU_PowerMode_EnterDeepPowerDown
+ .text.Chip_PMU_PowerMode_GetDPDWakeupReason
+                0x00001e30       0x40 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+                0x00001e30                Chip_PMU_PowerMode_GetDPDWakeupReason
+ .text.Chip_PMU_SetBODEnabled
+                0x00001e70       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+                0x00001e70                Chip_PMU_SetBODEnabled
+ .text.Chip_PMU_GetStatus
+                0x00001e8c       0x20 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+                0x00001e8c                Chip_PMU_GetStatus
+ .text.Chip_RTC_Init
+                0x00001eac        0xc C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+                0x00001eac                Chip_RTC_Init
+ .text.Chip_RTC_Wakeup_SetControl
+                0x00001eb8       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+                0x00001eb8                Chip_RTC_Wakeup_SetControl
+ .text.Chip_RTC_Wakeup_SetReload
+                0x00001ed4       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+                0x00001ed4                Chip_RTC_Wakeup_SetReload
+ .text.Chip_RTC_Wakeup_GetReload
+                0x00001ef0       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+                0x00001ef0                Chip_RTC_Wakeup_GetReload
+ .text.Chip_RTC_Int_SetEnabledMask
+                0x00001f0c       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+                0x00001f0c                Chip_RTC_Int_SetEnabledMask
+ .text.Chip_RTC_Int_GetRawStatus
+                0x00001f28       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+                0x00001f28                Chip_RTC_Int_GetRawStatus
+ .text.Chip_RTC_Int_ClearRawStatus
+                0x00001f44       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+                0x00001f44                Chip_RTC_Int_ClearRawStatus
+ .text.Chip_SysCon_Peripheral_AssertReset
+                0x00001f60       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+                0x00001f60                Chip_SysCon_Peripheral_AssertReset
+ .text.Chip_SysCon_Peripheral_DeassertReset
+                0x00001f74       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+                0x00001f74                Chip_SysCon_Peripheral_DeassertReset
+ .text.Chip_SysCon_Peripheral_EnablePower
+                0x00001f88       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+                0x00001f88                Chip_SysCon_Peripheral_EnablePower
+ .text.Chip_SysCon_Peripheral_DisablePower
+                0x00001fa0       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+                0x00001fa0                Chip_SysCon_Peripheral_DisablePower
+ .text.Chip_SysCon_StartLogic_SetEnabledMask
+                0x00001fb8       0x14 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+                0x00001fb8                Chip_SysCon_StartLogic_SetEnabledMask
+ .text.Chip_SysCon_StartLogic_ClearStatus
+                0x00001fcc       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+                0x00001fcc                Chip_SysCon_StartLogic_ClearStatus
+ .text.Chip_TIMER_Init
+                0x00001fe4        0xa C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+                0x00001fe4                Chip_TIMER_Init
+ .text.Chip_TIMER_Reset
+                0x00001fee       0x18 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+                0x00001fee                Chip_TIMER_Reset
+ .text.Chip_TIMER_ExtMatchControlSet
+                0x00002006       0x22 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+                0x00002006                Chip_TIMER_ExtMatchControlSet
+ .text.Chip_TIMER_SetMatchOutputMode
+                0x00002028       0x1c C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+                0x00002028                Chip_TIMER_SetMatchOutputMode
+ .text.Chip_TSen_Init
+                0x00002044       0x30 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+                0x00002044                Chip_TSen_Init
+ .text.Chip_TSen_DeInit
+                0x00002074       0x16 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+                0x00002074                Chip_TSen_DeInit
+ .text.Chip_TSen_SetResolution
+                0x0000208a       0x10 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+                0x0000208a                Chip_TSen_SetResolution
+ .text.Chip_TSen_GetResolution
+                0x0000209a        0x8 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+                0x0000209a                Chip_TSen_GetResolution
+ .text.Chip_TSen_Start
+                0x000020a2        0xa C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+                0x000020a2                Chip_TSen_Start
+ .text.Chip_TSen_ReadStatus
+                0x000020ac       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+                0x000020ac                Chip_TSen_ReadStatus
+ .text.Chip_TSen_GetValue
+                0x000020de        0x6 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+                0x000020de                Chip_TSen_GetValue
+ .text.Chip_TSen_NativeToFahrenheit
+                0x000020e4       0x54 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+                0x000020e4                Chip_TSen_NativeToFahrenheit
+ .text.Chip_TSen_Int_SetEnabledMask
+                0x00002138        0x8 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+                0x00002138                Chip_TSen_Int_SetEnabledMask
+ .text.defaultIntHandler
+                0x00002140        0x2 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(mcux_startup.o)
+                0x00002140                I2C0_IRQHandler
+                0x00002140                PMUBOD_IRQHandler
+                0x00002140                HardFault_Handler
+                0x00002140                SysTick_Handler
+                0x00002140                PendSV_Handler
+                0x00002140                NMI_Handler
+                0x00002140                CT16B0_IRQHandler
+                0x00002140                PIO0_8_IRQHandler
+                0x00002140                PIO0_4_IRQHandler
+                0x00002140                SSP0_IRQHandler
+                0x00002140                PMUFLD_IRQHandler
+                0x00002140                PIO0_6_IRQHandler
+                0x00002140                PIO0_5_IRQHandler
+                0x00002140                PIO0_1_IRQHandler
+                0x00002140                PIO0_IRQHandler
+                0x00002140                ADC_IRQHandler
+                0x00002140                PIO0_3_IRQHandler
+                0x00002140                WDT_IRQHandler
+                0x00002140                SVC_Handler
+                0x00002140                PIO0_10_IRQHandler
+                0x00002140                PIO0_7_IRQHandler
+                0x00002140                PIO0_0_IRQHandler
+                0x00002140                PIO0_2_IRQHandler
+                0x00002140                EEPROM_IRQHandler
+                0x00002140                RTCPWREQ_IRQHandler
+                0x00002140                RFFIELD_IRQHandler
+                0x00002140                C2D_IRQHandler
+                0x00002140                FLASH_IRQHandler
+                0x00002140                I2D_IRQHandler
+                0x00002140                PIO0_9_IRQHandler
+ .text.Chip_BusSync_WaitSync
+                0x00002142       0x12 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(bussync_8Nxx.o)
+ .text.Chip_BusSync_WriteReg
+                0x00002154       0x1e C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(bussync_8Nxx.o)
+                0x00002154                Chip_BusSync_WriteReg
+ .text.Chip_BusSync_ReadReg
+                0x00002172       0x28 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(bussync_8Nxx.o)
+                0x00002172                Chip_BusSync_ReadReg
+ .text.memcpy   0x0000219a        0x8 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memcpy.o)
+                0x0000219a                memcpy
+ .text.memmove  0x000021a2        0x8 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memmove.o)
+                0x000021a2                memmove
+ .text.__weak_main
+                0x000021aa        0x8 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(__weak__main.o)
+                0x000021aa                __weak_main
+                0x000021aa                __main
+ .text.strcat   0x000021b2       0x1a c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcat.o)
+                0x000021b2                strcat
+ .text.strcpy   0x000021cc       0x44 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcpy.o)
+                0x000021cc                strcpy
+ .text.strlen   0x00002210       0x58 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strlen.o)
+                0x00002210                strlen
+ .text.strncmp  0x00002268       0x54 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncmp.o)
+                0x00002268                strncmp
+ .text.strncpy  0x000022bc       0x58 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncpy.o)
+                0x000022bc                strncpy
+ .text.__aeabi_division_idivmod
+                0x00002314       0x78 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_32.o)
+                0x00002314                __aeabi_idivmod
+                0x00002314                __aeabi_idiv
+                0x0000231a                __aeabi_uidivmod
+                0x0000231a                __aeabi_uidiv
+ .text.__aeabi_division_idiv0
+                0x0000238c        0x2 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_idiv0.o)
+                0x0000238c                __aeabi_idiv0
+ .text.__aeabi_memcpy
+                0x0000238e       0x2c c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(memcpy.o)
+                0x0000238e                __aeabi_memcpy4
+                0x0000238e                __aeabi_memcpy8
+                0x0000238e                __aeabi_memcpy
+ .text.__aeabi_memmove
+                0x000023ba       0x1c c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(memcpy.o)
+                0x000023ba                __aeabi_memmove
+                0x000023ba                __aeabi_memmove4
+                0x000023ba                __aeabi_memmove8
+ .text.__gnu_thumb1_case_sqi
+                0x000023d6       0x10 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+                0x000023d6                __gnu_thumb1_case_sqi
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.asciiFont55
+                0x000023e6      0x240 ./src/main.o
+                0x000023e6                asciiFont55
+ .rodata.asciiFont57
+                0x00002626      0x240 ./src/main.o
+                0x00002626                asciiFont57
+ .rodata.initLedPattern
+                0x00002866       0x3c ./src/main.o
+                0x00002866                initLedPattern
+ .rodata.main.str1.1
+                0x000028a2       0x46 ./src/main.o
+ .rodata.notes  0x000028e8       0x48 ./src/main.o
+                0x000028e8                notes
+ .rodata.startLEDDisplay.str1.1
+                0x00002930       0x11 ./src/main.o
+ *fill*         0x00002941        0x3 ff
+ .rodata.defaultBytes
+                0x00002944        0xc ./mods/ndeft2t/ndeft2t.o
+                0x00002950                . = ALIGN (0x4)
+
+.glue_7         0x00002950        0x0
+ .glue_7        0x00002950        0x0 linker stubs
+
+.glue_7t        0x00002950        0x0
+ .glue_7t       0x00002950        0x0 linker stubs
+
+.vfp11_veneer   0x00002950        0x0
+ .vfp11_veneer  0x00002950        0x0 linker stubs
+
+.v4_bx          0x00002950        0x0
+ .v4_bx         0x00002950        0x0 linker stubs
+
+.iplt           0x00002950        0x0
+ .iplt          0x00002950        0x0 ./src/crp.o
+
+.rel.dyn        0x00002950        0x0
+ .rel.iplt      0x00002950        0x0 ./src/crp.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00002950                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00002950                __exidx_end = .
+                0x00002950                _etext = .
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x30 load address 0x00002950
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.colMap   0x10000000        0x5 ./src/main.o
+                0x10000000                colMap
+ *fill*         0x10000005        0x1 ff
+ .data.eeTagAddr
+                0x10000006        0xa ./src/main.o
+                0x10000006                eeTagAddr
+ .data.g_tempText
+                0x10000010       0x14 ./src/main.o
+                0x10000010                g_tempText
+ .data.rowMap   0x10000024        0x7 ./src/main.o
+                0x10000024                rowMap
+ *fill*         0x1000002b        0x1 ff
+ .data.EEPROM_lastWrittenRow
+                0x1000002c        0x4 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+                0x10000030                . = ALIGN (0x4)
+                0x10000030                _edata = .
+
+.igot.plt       0x10000030        0x0 load address 0x00002980
+ .igot.plt      0x10000030        0x0 ./src/crp.o
+
+.bss            0x10000030     0x11f0 load address 0x00002980
+                0x10000030                _bss = .
+ *(.bss*)
+ .bss.activeFont
+                0x10000030        0x4 ./src/main.o
+                0x10000030                activeFont
+ .bss.beats     0x10000034       0xc8 ./src/main.o
+                0x10000034                beats
+ .bss.changeFont
+                0x100000fc        0x1 ./src/main.o
+                0x100000fc                changeFont
+ *fill*         0x100000fd        0x1 
+ .bss.currMusicIndex
+                0x100000fe        0x2 ./src/main.o
+                0x100000fe                currMusicIndex
+ .bss.desiredSpeed
+                0x10000100        0x1 ./src/main.o
+                0x10000100                desiredSpeed
+ .bss.dispStep  0x10000101        0x1 ./src/main.o
+                0x10000101                dispStep
+ .bss.displayInProgress
+                0x10000102        0x1 ./src/main.o
+ *fill*         0x10000103        0x1 
+ .bss.g_currentTemp
+                0x10000104        0x4 ./src/main.o
+                0x10000104                g_currentTemp
+ .bss.g_displayText
+                0x10000108       0x82 ./src/main.o
+                0x10000108                g_displayText
+ .bss.g_displayTextLen
+                0x1000018a        0x1 ./src/main.o
+                0x1000018a                g_displayTextLen
+ .bss.g_ledPattern
+                0x1000018b      0x30c ./src/main.o
+                0x1000018b                g_ledPattern
+ .bss.g_updateTemp
+                0x10000497        0x1 ./src/main.o
+                0x10000497                g_updateTemp
+ .bss.hostTicks
+                0x10000498        0x2 ./src/main.o
+                0x10000498                hostTicks
+ .bss.hostTimeout
+                0x1000049a        0x2 ./src/main.o
+                0x1000049a                hostTimeout
+ .bss.musicDataValid
+                0x1000049c        0x1 ./src/main.o
+ .bss.musicInProgress
+                0x1000049d        0x1 ./src/main.o
+ .bss.musicSize
+                0x1000049e        0x2 ./src/main.o
+                0x1000049e                musicSize
+ .bss.musicTones
+                0x100004a0      0xc80 ./src/main.o
+                0x100004a0                musicTones
+ .bss.nfcOn     0x10001120        0x1 ./src/main.o
+ .bss.sTargetWritten
+                0x10001121        0x1 ./src/main.o
+ .bss.scanCount
+                0x10001122        0x1 ./src/main.o
+                0x10001122                scanCount
+ *fill*         0x10001123        0x1 
+ .bss.sizeLEDPattern
+                0x10001124        0x4 ./src/main.o
+                0x10001124                sizeLEDPattern
+ .bss.song      0x10001128       0xc8 ./src/main.o
+                0x10001128                song
+ .bss.songLength
+                0x100011f0        0x1 ./src/main.o
+                0x100011f0                songLength
+ *fill*         0x100011f1        0x3 
+ .bss.startPatternIndex
+                0x100011f4        0x4 ./src/main.o
+                0x100011f4                startPatternIndex
+ .bss.switchDebounceCnt
+                0x100011f8        0x1 ./src/main.o
+                0x100011f8                switchDebounceCnt
+ .bss.switchPressed
+                0x100011f9        0x1 ./src/main.o
+                0x100011f9                switchPressed
+ .bss.tempo     0x100011fa        0x2 ./src/main.o
+                0x100011fa                tempo
+ .bss.updateNFC
+                0x100011fc        0x1 ./src/main.o
+ .bss.sMeasurementTimeoutInterruptFired
+                0x100011fd        0x1 ./src/timer.o
+ *fill*         0x100011fe        0x2 
+ .bss.sContext  0x10001200        0x4 ./mods/tmeas/tmeas.o
+ .bss.sFormat   0x10001204        0x1 ./mods/tmeas/tmeas.o
+ .bss.sMeasurementInProgress
+                0x10001205        0x1 ./mods/tmeas/tmeas.o
+ *fill*         0x10001206        0x2 
+ .bss.sTermTlvOffset
+                0x10001208        0x4 ./mods/ndeft2t/ndeft2t.o
+ .bss.sTermTlvPage
+                0x1000120c        0x4 ./mods/ndeft2t/ndeft2t.o
+ .bss.EEPROM_flushing
+                0x10001210        0x1 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+ *fill*         0x10001211        0x3 
+ .bss.stickyMEM_WRITE
+                0x10001214        0x4 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .bss.Chip_PMU_AccessCounter
+                0x10001218        0x4 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .bss.Chip_RTC_AccessCounter
+                0x1000121c        0x4 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ *(COMMON)
+                0x10001220                . = ALIGN (0x4)
+                0x10001220                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit         0x10001220      0x21c load address 0x00002980
+                0x10001220                _noinit = .
+ *(.noinit*)
+ .noinit        0x10001220      0x21c ./src/main.o
+                0x1000143c                . = ALIGN (0x4)
+                0x1000143c                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10001ff0                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_SRAM8 - 0x0))
+                [!provide]                PROVIDE (__valid_user_code_checksum, (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+                0x00000000                _image_start = LOADADDR (.text)
+                0x00002980                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00002980                _image_size = (_image_end - _image_start)
+OUTPUT(app_demo.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x4ce9
+ .debug_info    0x00000000       0x3b ./src/crp.o
+ .debug_info    0x0000003b     0x2be3 ./src/main.o
+ .debug_info    0x00002c1e      0x720 ./src/timer.o
+ .debug_info    0x0000333e      0x7f6 ./mods/tmeas/tmeas.o
+ .debug_info    0x00003b34     0x11b5 ./mods/ndeft2t/ndeft2t.o
+
+.debug_abbrev   0x00000000      0xd2f
+ .debug_abbrev  0x00000000       0x33 ./src/crp.o
+ .debug_abbrev  0x00000033      0x470 ./src/main.o
+ .debug_abbrev  0x000004a3      0x21c ./src/timer.o
+ .debug_abbrev  0x000006bf      0x298 ./mods/tmeas/tmeas.o
+ .debug_abbrev  0x00000957      0x3d8 ./mods/ndeft2t/ndeft2t.o
+
+.debug_aranges  0x00000000      0x1b0
+ .debug_aranges
+                0x00000000       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000018       0x90 ./src/main.o
+ .debug_aranges
+                0x000000a8       0x40 ./src/timer.o
+ .debug_aranges
+                0x000000e8       0x28 ./mods/tmeas/tmeas.o
+ .debug_aranges
+                0x00000110       0xa0 ./mods/ndeft2t/ndeft2t.o
+
+.debug_line     0x00000000     0x1353
+ .debug_line    0x00000000       0x2d ./src/crp.o
+ .debug_line    0x0000002d      0xa1a ./src/main.o
+ .debug_line    0x00000a47      0x1fb ./src/timer.o
+ .debug_line    0x00000c42      0x1f0 ./mods/tmeas/tmeas.o
+ .debug_line    0x00000e32      0x521 ./mods/ndeft2t/ndeft2t.o
+
+.debug_str      0x00000000     0x2039
+ .debug_str     0x00000000      0x12d ./src/crp.o
+                                0x13a (size before relaxing)
+ .debug_str     0x0000012d     0x14bd ./src/main.o
+                               0x162e (size before relaxing)
+ .debug_str     0x000015ea      0x3c4 ./src/timer.o
+                                0x843 (size before relaxing)
+ .debug_str     0x000019ae      0x188 ./mods/tmeas/tmeas.o
+                                0x7c8 (size before relaxing)
+ .debug_str     0x00001b36      0x503 ./mods/ndeft2t/ndeft2t.o
+                                0xc32 (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f ./src/crp.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 ./src/main.o
+ .comment       0x0000007f       0x80 ./src/timer.o
+ .comment       0x0000007f       0x80 ./mods/tmeas/tmeas.o
+ .comment       0x0000007f       0x80 ./mods/ndeft2t/ndeft2t.o
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_board_dp\Release\liblib_board_dp.a(board.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(mcux_startup.o)
+ .comment       0x0000007f       0x80 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(bussync_8Nxx.o)
+ .comment       0x0000007f       0x80 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memcpy.o)
+ .comment       0x0000007f       0x80 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memmove.o)
+ .comment       0x0000007f       0x80 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(__weak__main.o)
+ .comment       0x0000007f       0x80 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcat.o)
+ .comment       0x0000007f       0x80 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcpy.o)
+ .comment       0x0000007f       0x80 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strlen.o)
+ .comment       0x0000007f       0x80 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncmp.o)
+ .comment       0x0000007f       0x80 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncpy.o)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x31 ./src/crp.o
+ .ARM.attributes
+                0x00000031       0x31 ./src/main.o
+ .ARM.attributes
+                0x00000062       0x31 ./src/timer.o
+ .ARM.attributes
+                0x00000093       0x31 ./mods/tmeas/tmeas.o
+ .ARM.attributes
+                0x000000c4       0x31 ./mods/ndeft2t/ndeft2t.o
+ .ARM.attributes
+                0x000000f5       0x31 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_board_dp\Release\liblib_board_dp.a(board.o)
+ .ARM.attributes
+                0x00000126       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(clock_8Nxx.o)
+ .ARM.attributes
+                0x00000158       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(eeprom_8Nxx.o)
+ .ARM.attributes
+                0x0000018a       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(gpio_8Nxx.o)
+ .ARM.attributes
+                0x000001bc       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(iocon_8Nxx.o)
+ .ARM.attributes
+                0x000001ee       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(nfc_8Nxx.o)
+ .ARM.attributes
+                0x00000220       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(pmu_8Nxx.o)
+ .ARM.attributes
+                0x00000252       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(rtc_8Nxx.o)
+ .ARM.attributes
+                0x00000284       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(syscon_8Nxx.o)
+ .ARM.attributes
+                0x000002b6       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(timer_8Nxx.o)
+ .ARM.attributes
+                0x000002e8       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(tsen_8Nxx.o)
+ .ARM.attributes
+                0x0000031a       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(mcux_startup.o)
+ .ARM.attributes
+                0x0000034c       0x32 C:\Users\nxp73930\Documents\MCUXpressoIDE_10.1.0_569_prc2g\workspace\lib_chip_8Nxx\Release\liblib_chip_8Nxx.a(bussync_8Nxx.o)
+ .ARM.attributes
+                0x0000037e       0x31 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x000003af       0x31 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(memmove.o)
+ .ARM.attributes
+                0x000003e0       0x31 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000411       0x31 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcat.o)
+ .ARM.attributes
+                0x00000442       0x31 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strcpy.o)
+ .ARM.attributes
+                0x00000473       0x31 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strlen.o)
+ .ARM.attributes
+                0x000004a4       0x31 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncmp.o)
+ .ARM.attributes
+                0x000004d5       0x31 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libcr_c.a(strncpy.o)
+ .ARM.attributes
+                0x00000506       0x21 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x00000527       0x21 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x00000548       0x21 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x00000569       0x21 c:/nxp/mcuxpressoide_10.1.0_569_prc2g/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libcr_eabihelpers.a(thumb1_switch_helpers.o)
+
+.debug_loc      0x00000000     0x23f7
+ .debug_loc     0x00000000     0x10d8 ./src/main.o
+ .debug_loc     0x000010d8       0x83 ./src/timer.o
+ .debug_loc     0x0000115b      0x176 ./mods/tmeas/tmeas.o
+ .debug_loc     0x000012d1     0x1126 ./mods/ndeft2t/ndeft2t.o
+
+.debug_ranges   0x00000000      0x408
+ .debug_ranges  0x00000000      0x2e0 ./src/main.o
+ .debug_ranges  0x000002e0       0x30 ./src/timer.o
+ .debug_ranges  0x00000310       0x38 ./mods/tmeas/tmeas.o
+ .debug_ranges  0x00000348       0xc0 ./mods/ndeft2t/ndeft2t.o
+
+.debug_frame    0x00000000      0x450
+ .debug_frame   0x00000000      0x1a0 ./src/main.o
+ .debug_frame   0x000001a0       0x84 ./src/timer.o
+ .debug_frame   0x00000224       0x50 ./mods/tmeas/tmeas.o
+ .debug_frame   0x00000274      0x1dc ./mods/ndeft2t/ndeft2t.o
